@@ -2,3 +2,4 @@ name: Martin McCrorey
 markdown: kramdown
 plugins:
     - jekyll-seo-tag
+permalink: /blog/:year/:month/:day/:title
